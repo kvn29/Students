@@ -1,0 +1,8 @@
+{
+  "name": "opuscope",
+  "dependencies": {
+    "jquery": "^2.1.4",
+    "bootstrap": "^3.3.5",
+    "socket.io-client": "^1.7.2"
+  }
+}
